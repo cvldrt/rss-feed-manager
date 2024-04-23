@@ -26,8 +26,10 @@ cmake ..
 make
 ```
 
-## Usage:
+## Usage
+```
 ./server [<path>]
 ./client [<path>]
+```
 
-Where <path> is a directory where feeds/temporary images will be stores. Defaults are "./.feeds" and "./.imgs" respectively;
+Where \<path> is a directory where feeds/temporary images will be stores. Defaults are "./.feeds" and "./.imgs" respectively.
