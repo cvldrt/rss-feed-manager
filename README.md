@@ -1,6 +1,3 @@
-# Project Name
-RSS feed proxy server and reader
-
 ## Introduction
 
 The application allows users to store RSS feeds on proxy server and view/manage them from the client reader app. It provides features for adding new feeds, viewing them filtered by labels, and retrieving information about the feeds.
